@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.foursquare:foursquare-android-oauth:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b160df2263151385b7b40a76233b9672/jetified-foursquare-android-oauth-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b160df2263151385b7b40a76233b9672/jetified-foursquare-android-oauth-1.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

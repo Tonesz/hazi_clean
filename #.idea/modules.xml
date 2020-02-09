@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hazi_Clean.iml" filepath="$PROJECT_DIR$/Hazi_Clean.iml" group="Hazi_Clean" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Hazi_Clean/app" />
+      <module fileurl="file://$PROJECT_DIR$/foursquare-oauth-library/foursquare-oauth-library.iml" filepath="$PROJECT_DIR$/foursquare-oauth-library/foursquare-oauth-library.iml" group="Hazi_Clean/foursquare-oauth-library" />
+      <module fileurl="file://$PROJECT_DIR$/foursquare-oauth-sample/foursquare-oauth-sample.iml" filepath="$PROJECT_DIR$/foursquare-oauth-sample/foursquare-oauth-sample.iml" group="Hazi_Clean/foursquare-oauth-sample" />
+    </modules>
+  </component>
+</project>
