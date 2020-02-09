@@ -1,0 +1,5 @@
+rootProject.name='Hazi_Clean'
+include ':app'
+
+include ':foursquare-oauth-library'
+include ':foursquare-oauth-sample'
